@@ -47,7 +47,7 @@
   <a href="https://www.facebook.com/danixhbangaxh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="devdan4184@gmail.com" target="_blank">
+  <a href="mailto:devdan4184@gail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.link/hnle52" target="_blank">
